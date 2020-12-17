@@ -1,6 +1,6 @@
 # Steps to run :
 
-- initlise a virtual env using virtualenv
+- initialise a virtual env using virtualenv
 
 - install all packages using requirements.txt
 
